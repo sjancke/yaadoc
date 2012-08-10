@@ -1,7 +1,7 @@
 yaadoc
 ======
 
-yeah an api documentation tool for java
+yeah a (real) api documentation tool for java
 
 roadmap to yaadoc
 ------

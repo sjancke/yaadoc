@@ -5,8 +5,8 @@ yeah an api documentation tool for java
 
 roadmap to a new javadoc
 ------
-# basic html layout + style
-# write classes
+basic html layout + style
+write classes
 # write methods
 # write overview, package.htmls
 # make classes/.. searchable in JS

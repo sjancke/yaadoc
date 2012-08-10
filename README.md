@@ -3,15 +3,11 @@ yaadoc
 
 yeah an api documentation tool for java
 
-roadmap to a new javadoc
+roadmap to yaadoc
 ------
-basic html layout + style
-write classes
-# write methods
-# write overview, package.htmls
-# make classes/.. searchable in JS
-# use markdown
-# enable @link, @linkplain
-# enable @see
-# enable further tags
-# develop more tags
+output class+method docs
+write overview, package.htmls
+style the html-output
+make classes/.. searchable in JS
+use markdown
+enable javadoc-taglets (@link, @linkplain, @code, @see, ...)
